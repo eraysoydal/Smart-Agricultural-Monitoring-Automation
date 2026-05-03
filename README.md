@@ -1,4 +1,4 @@
-# Smart Agricultural Monitoring and Advanced Borehole Automation System
+<img width="946" height="2049" alt="image" src="https://github.com/user-attachments/assets/2e10f5bc-5848-4e57-9fdd-ab1046dd1e9c" /># Smart Agricultural Monitoring and Advanced Borehole Automation System
 
 **Student Information**
 * **Full Name:** Eray Soydal 
@@ -105,3 +105,7 @@ Through the Blynk IoT interface, users can remotely toggle the 220V relay (Virtu
 
 **Local OLED Display:** 
 In parallel with the cloud data upload, the ESP32 updates the I2C OLED screen locally every second with real-time diagnostic content: the current temperature, pressure, pump state, and Wi-Fi RSSI parameters.
+## 7. Evidence
+### Project Demo  : 
+<img width="929" height="1971" alt="graph" src="https://github.com/user-attachments/assets/7ebee6b8-00fe-4b74-a2ab-d397cd167d1d" />
+<img width="946" height="2049" alt="graph 2" src="https://github.com/user-attachments/assets/fda717bf-45cd-4b63-a533-f13a330dcc83" />
