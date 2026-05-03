@@ -106,5 +106,5 @@ Through the Blynk IoT interface, users can remotely toggle the 220V relay (Virtu
 In parallel with the cloud data upload, the ESP32 updates the I2C OLED screen locally every second with real-time diagnostic content: the current temperature, pressure, pump state, and Wi-Fi RSSI parameters.
 ## 7. Evidence
 ### Project Demo  : 
-<img width="929" height="1971" alt="graph" src="https://github.com/user-attachments/assets/7ebee6b8-00fe-4b74-a2ab-d397cd167d1d" />
-<img width="946" height="2049" alt="graph 2" src="https://github.com/user-attachments/assets/fda717bf-45cd-4b63-a533-f13a330dcc83" />
+<img width="180" height="400" alt="graph" src="https://github.com/user-attachments/assets/7ebee6b8-00fe-4b74-a2ab-d397cd167d1d" />
+<img width="180" height="400" alt="graph 2" src="https://github.com/user-attachments/assets/fda717bf-45cd-4b63-a533-f13a330dcc83" />
