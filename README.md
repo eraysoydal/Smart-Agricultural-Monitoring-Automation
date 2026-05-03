@@ -1,4 +1,3 @@
-<img width="946" height="2049" alt="image" src="https://github.com/user-attachments/assets/2e10f5bc-5848-4e57-9fdd-ab1046dd1e9c" /># Smart Agricultural Monitoring and Advanced Borehole Automation System
 
 **Student Information**
 * **Full Name:** Eray Soydal 
