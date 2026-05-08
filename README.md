@@ -108,3 +108,7 @@ In parallel with the cloud data upload, the ESP32 updates the I2C OLED screen lo
 ### Project Demo  : 
 <img width="180" height="400" alt="graph" src="https://github.com/user-attachments/assets/7ebee6b8-00fe-4b74-a2ab-d397cd167d1d" />
 <img width="180" height="400" alt="graph 2" src="https://github.com/user-attachments/assets/fda717bf-45cd-4b63-a533-f13a330dcc83" />
+
+
+https://github.com/user-attachments/assets/f14f7579-fbfc-4ac1-8e0a-c01ea6017c40
+
